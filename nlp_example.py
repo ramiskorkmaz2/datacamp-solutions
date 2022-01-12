@@ -1,5 +1,3 @@
-# Natural Language Processing Example From Datacamp
-
 # Importing requests, BeautifulSoup, nltk, and Counter
 import requests
 from bs4 import BeautifulSoup

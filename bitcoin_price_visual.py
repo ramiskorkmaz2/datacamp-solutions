@@ -1,5 +1,3 @@
-# Bitcoin price visual
-
 # Importing pandas
 import pandas as pd
 
